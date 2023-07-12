@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a full-stack developer who loves the intersection between the art of programming and design.
 - 🔭 Currently working on **[Satuin.id](https://satuin.id)** as a Lead Developer
-- 💻 Working with **Laravel / Lumen, Node Js, Vue Js, Quasar Framework, Nuxt Js**
+- 💻 Working with **Laravel / Lumen, Node Js, Vue Js, Quasar Framework, Nuxt Js & PostgreSQL**
 - 🌱 Currently learning **AWS Cloud & DevOps**
 - 👯 Open to collaborating on **Personal Project**
 - 💬 Ask me about: **web development, mobile-hybrid apps development, rest API, database design, etc**
