@@ -6,7 +6,6 @@ I am a full-stack developer who loves the intersection between the art of progra
 - 👯 Open to collaborating on **Personal Project**
 - 💬 Ask me about: **web development, mobile-hybrid apps development, rest API, database design, etc**
 - 📫 Reach me on: **[Telegram](https://t.me/arbisyarifudin)**
-- 😄 Pronouns: **He/Him**
   
 ###
 
