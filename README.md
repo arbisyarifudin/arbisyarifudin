@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am a full-stack developer who loves the intersection between the art of programming and design.
-- 🔭 Currently working on **[Satuin.id](https://satuin.id/features)** as a Lead Developer
-- 💻 Working with **Laravel / Lumen, Node Js, Vue Js, Quasar Framework, Nuxt Js & PostgreSQL**
-- 🌱 Currently learning **AWS Cloud & DevOps**
-- 👯 Open to collaborating on **Personal Project**
+- 🔭 Currently involved in the development of **[Satuin.id](https://satuin.id)** as a Lead Developer (Remote)
+- 💻 My expertise includes **Laravel / Lumen, Node Js, Vue Js, Quasar Framework, Nuxt Js & PostgreSQL**
+- 🌱 I am currently expanding my knowledge in **AWS Cloud & DevOps**
+- 👨‍💻 **Open to remote job opportunities**, while also keen on collaborating on personal projects.
 - 💬 Ask me about: **web development, mobile-hybrid apps development, rest API, database design, etc**
 - 📫 Reach me on: **[Telegram](https://t.me/arbisyarifudin)**
   
