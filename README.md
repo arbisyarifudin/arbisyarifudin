@@ -29,9 +29,11 @@ I am a full-stack developer specializing in SaaS platforms, with a passion for c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="30" width="42" alt="laravel logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" width="42" alt="aws logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" width="42" alt="react native logo" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" height="30" alt="react native logo" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" width="42" alt="supabase logo" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" width="42" alt="cloudflare logo" />
   <img src="https://cdn.simpleicons.org/notion/000000" height="30" width="42" alt="notion logo" />
-  <img src="https://cdn.simpleicons.org/taiga/70B244" height="30" width="42" alt="taiga logo" />
+  <img src="https://img.shields.io/badge/Taiga-70B244?style=flat&logo=taiga&logoColor=white" height="30" alt="taiga logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original.svg" height="30" width="42" alt="quasar logo" />
 </div>
 
