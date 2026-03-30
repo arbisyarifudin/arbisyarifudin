@@ -1,7 +1,7 @@
 ### Hi there 👋
 A seasoned full-stack developer with over 6 years of experience, passionate about building scalable SaaS platforms and great user experiences. I've worked with diverse clients worldwide as a freelancer and remote developer.
    
-- 🔭 Currently building **Orbit Commerce** — a SaaS e-commerce platform (à la Shopify) at **Funky Monkey Ltd** *(Remote, UK)*
+- 🔭 Currently focused on **SaaS platform development** for a UK-based startup
 - 💻 My expertise includes **NestJS, React, Next.js, Vue.js, Laravel, PostgreSQL & AWS**
 - 🌱 Currently expanding my skills in **React Native (mobile development)**
 - 👨‍💻 **Open to remote job opportunities**, while also keen on collaborating on personal projects.
